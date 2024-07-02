@@ -5,7 +5,7 @@
 - URL
 
 ```url
-https://*.app/
+https://todo-list-furkankayam.netlify.app/
 ```
 
 <br>
